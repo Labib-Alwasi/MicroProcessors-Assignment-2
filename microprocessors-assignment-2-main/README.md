@@ -2,17 +2,6 @@
 
 Assignment 2 for Microprocessors
 
-## Report
-
-Report can be accessed [here](https://docs.google.com/document/d/16RKJ-n3LtSh2d0rVcJt9_j-bWo5DYeZhtlXz2NsJ3xg/edit?usp=sharing)
-
-
-### Workflow
-
-
-For proper Workflow management, add the individual contribution in the [Google Doc](https://docs.google.com/document/d/1w2TPiovsNV9KAnugQtNTTOijNtJ0zG-WWCioce6xo6E/edit?usp=sharing)
-
-
 ## Pseudo Code Top Level
 
 ```
