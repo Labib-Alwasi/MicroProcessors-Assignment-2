@@ -1,5 +1,3 @@
-# MicroProcessors-Assignment-2
-
 # Microprocessors Assignment 2
 
 Assignment 2 for Microprocessors
