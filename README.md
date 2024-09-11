@@ -1,5 +1,4 @@
-# Microprocessors Assignment 2
-
+# Raspberry Pi Pico Morse Code Project
 Programming a Raspberry Pi Pico using C and Arm Assembly to create a Morse Code game using interrupts, buttons and LEDs.
 (Microprocessors Assignment)
 ## Report
